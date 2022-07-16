@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cDJBFCjCPLXK+IDzpc5H+1ivTNT9bGfQiFXfX/ooSxQr/iRTIV1EyorRDRy+JFuWee0Vh6cYvz6GnFNRo13Vdg==",
+  "success": true,
+  "projectFilePath": "F:\\Proj\\ASP\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
