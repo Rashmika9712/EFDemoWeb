@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DlxmvqOKfdHWZu1ZEHjhvDtWgzOgFT9jOiqKN5z2PAscPg+/9tzj5BPmhtMjy44lN8bwC90lY9kd2/S0rpowvg==",
+  "dgSpecHash": "Jp6n6Y2f5fSZPa4PawAbX+f2XWNnneopPZSqHrUYTsx+3zjT4uh5W8zGEh5sW5EKLyMFKyE10RQcZI09DJrucw==",
   "success": true,
-  "projectFilePath": "F:\\Proj\\ASP\\EFDemoWeb\\EFDemoWeb\\EFDemoWeb.csproj",
+  "projectFilePath": "F:\\Proj\\ASP\\EFDemoWeb\\EFDataAccessLibrary\\EFDataAccessLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
@@ -101,8 +101,7 @@
     "C:\\Users\\Acer\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Acer\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+    "C:\\Users\\Acer\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
