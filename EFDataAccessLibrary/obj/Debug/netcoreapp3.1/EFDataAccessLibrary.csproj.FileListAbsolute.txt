@@ -1,0 +1,10 @@
+F:\Proj\ASP\EFDemoWeb\EFDataAccessLibrary\bin\Debug\netcoreapp3.1\EFDataAccessLibrary.deps.json
+F:\Proj\ASP\EFDemoWeb\EFDataAccessLibrary\bin\Debug\netcoreapp3.1\EFDataAccessLibrary.dll
+F:\Proj\ASP\EFDemoWeb\EFDataAccessLibrary\bin\Debug\netcoreapp3.1\EFDataAccessLibrary.pdb
+F:\Proj\ASP\EFDemoWeb\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.csproj.AssemblyReference.cache
+F:\Proj\ASP\EFDemoWeb\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proj\ASP\EFDemoWeb\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.AssemblyInfoInputs.cache
+F:\Proj\ASP\EFDemoWeb\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.AssemblyInfo.cs
+F:\Proj\ASP\EFDemoWeb\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.csproj.CoreCompileInputs.cache
+F:\Proj\ASP\EFDemoWeb\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.dll
+F:\Proj\ASP\EFDemoWeb\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.pdb
